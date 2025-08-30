@@ -12,4 +12,4 @@ A simple web app to track expenses, visualize spending by category and over time
 1. Clone the repo:
    ```bash
    git clone https://github.com/ThaiBenjamin/expense-tracker.git
-   cd expense-tracker-flask
+   cd expense-tracker
